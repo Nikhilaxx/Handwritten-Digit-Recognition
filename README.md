@@ -27,6 +27,3 @@ This project builds an enhanced Convolutional Neural Network (CNN) to classify h
     - Add a grayscale 28x28 PNG image
     - Use `predict_custom_image('your_image.png')`
 
-## Future Improvements
-- Build a Web Interface for real-time digit prediction.
-- Try transfer learning approaches.
